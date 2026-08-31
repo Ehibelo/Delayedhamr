@@ -1,9 +1,9 @@
-# QuaSID 论文复现代码
+# 基于QuaSID的改进报告
 
 > 论文: Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning
-> for Recommendation at Industrial Scale (arXiv 2603.00632)
+> for Recommendation at Industrial Scale 
 >
-> 复现日期: 2026年6月
+> 复现日期: 2026年8月
 >
 > 数据集: Amazon Beauty (Stanford SNAP 原始版, 5-core)
 
